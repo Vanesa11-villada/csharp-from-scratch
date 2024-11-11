@@ -1,1 +1,3 @@
-# welcome to my csharp-from-scratch. training\n\nthis is my code made in course
+# welcome to my csharp-from-scratch. training
+
+this is my code made in course
